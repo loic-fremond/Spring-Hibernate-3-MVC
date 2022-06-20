@@ -8,5 +8,7 @@
 		<!-- in StudentController, we mapped the request of the class to "/student" and the showForm() method to "showForm" -->
 		<!-- thus href="student/showForm" -->
 		<a href="student/showForm">Student form</a>
+		<br><br>
+		<a href="customer/showForm">Customer form</a>
 	</body>
 </html>
