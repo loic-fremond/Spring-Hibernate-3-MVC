@@ -11,8 +11,6 @@ Il contient divers programmes permettant de tester des fonctionnalités concerna
 - Validation des nombres et expressions régulières
 - Règles de validation personnalisées
 
-AJOUTER SECTIONS 17 et anglais
-
 # Spring configuration using Java annotations with and without XML  
 This repository contains projects I have made as part of my Spring and Hibernate initiation.  
 It contains multiple programs that allowed me to test functionalities regarding the following sections :  
